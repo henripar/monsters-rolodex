@@ -4,6 +4,7 @@
 This is just a simple project to learn some of the basics of react including functional components, class components, 
 props and state.
 
+You can view the final project in https://henripar.github.io/monsters-rolodex/
 
 ### Zero to Mastery 
 
